@@ -12,9 +12,14 @@ Geometry Dash Localisation - модификация, которая нацеле
 ##### Полезные ссылки
 
 - Сайт - [Ссылка](https://www.gdlocalisation.gq/)
-- Запасной сайт - [Ссылка](https://gdlocalisation.netlify.app/)
 - Официальный дискорд - [Ссылка](https://discord.gg/CScsGU3N6M), [Запасная ссылка](https://discord.gg/Vh6G9G9Tk2)
 - Скачать релиз (32-бит) - [Ссылка](https://github.com/Pixelsuft/gdl-installer/releases/latest/download/GDL_Installer.exe)
+
+## Репозитории:
+
+- [GDL Site](https://github.com/gdlocalisation/gdl-site)
+- [GDL Installer](https://github.com/gdlocalisation/gdl-installer)
+- [GDL Installer Files](https://github.com/gdlocalisation/gdl-installer-files)
 
 ## Команда GDL
 Наша команда состоит из 9 человек, которым я хочу выразить свою благодарность :) Без вас ничего бы не получилось!
