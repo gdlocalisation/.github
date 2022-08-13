@@ -22,7 +22,7 @@ Geometry Dash Localisation - модификация, которая нацеле
 - [GDL Installer Files](https://github.com/gdlocalisation/gdl-installer-files)
 
 ## Команда GDL
-Наша команда состоит из 9 человек, которым я хочу выразить свою благодарность :) Без вас ничего бы не получилось!
+Наша команда состоит из 10 человек, которым я хочу выразить свою благодарность :) Без вас ничего бы не получилось!
 - [__Jaan#2897__](https://github.com/JaanDev) - основатель проекта, программист, а также создатель сайта, перерисовщик текстур.
 - [__Myemilia#0101__](https://github.com/mye-creator) - переводчик игры, переводчик руководства по редактору, создатель и владелец [YouTube канала](https://www.youtube.com/channel/UC7oKo9NgkRz39AAz-6Gb78A).
 - [__Demi Sans#1337__](https://github.com/DemiSans) - переводчик игровых текстов, редактора.
@@ -32,6 +32,7 @@ Geometry Dash Localisation - модификация, которая нацеле
 - [__uulti#9999__](https://www.youtube.com/channel/UCtC8U-f3iRtm601DcfoUEhg) - перерисовщик текстур.
 - [__Махимал#1337__](https://www.youtube.com/channel/UCb92kWSQ-5NWIcTZnxHKAfg) - перерисовщик текстур, дизайнер шрифтов.
 - [__Raelc#9751__](https://github.com/NotRaelc) - помощник с установщиком.
+- [__iAndy_HD3#3579__](https://github.com/iAndyHD3) - создатель/разработчик GDPS Editor 2.2, переводчик на Испанский.
 
 Отдельное спасибо нескольким людям - [__HJfod__](https://github.com/HJfod), [__Mat__](https://github.com/matcool/), [__QuasarKim__](https://github.com/Quasar-Kim   ), __sleepyut#3321__.
 
