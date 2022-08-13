@@ -32,7 +32,7 @@ Geometry Dash Localisation - модификация, которая нацеле
 - [__\_ItzUulti\_#3939__](https://www.youtube.com/channel/UCtC8U-f3iRtm601DcfoUEhg) - перерисовщик текстур.
 - [__Махимал#3389__](https://www.youtube.com/channel/UCb92kWSQ-5NWIcTZnxHKAfg) - перерисовщик текстур, дизайнер шрифтов.
 - [__Raelc#4964__](https://github.com/NotRaelc) - помощник с установщиком.
-- [__iAndy_HD3#3579__](https://github.com/iAndyHD3) - создатель/разработчик GDPS Editor 2.2, переводчик на Испанский.
+- [__iAndy_HD3#3579__](https://github.com/iAndyHD3) - создатель/разработчик GDPS Editor 2.2, переводчик на Испанский язык.
 
 Отдельное спасибо нескольким людям - [__HJfod__](https://github.com/HJfod), [__Mat__](https://github.com/matcool/), [__QuasarKim__](https://github.com/Quasar-Kim   ), __sleepyut#3321__.
 
