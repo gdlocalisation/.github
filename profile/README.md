@@ -1,4 +1,4 @@
-![GDL](https://www.gdlocalisation.gq/img/gdl_logo_text.png)
+![GDL](https://github.com/gdlocalisation/gdl-site/blob/main/img/gdl_logo_text.png)
 
 
 
