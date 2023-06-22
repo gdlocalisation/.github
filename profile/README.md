@@ -77,4 +77,4 @@ Geometry Dash Localisation - модификация, которая нацеле
 
 ## Лицензия
 
-Лицензировано [MIT License](https://github.com/Pixelsuft/gdl-installer/blob/main/LICENSE).
+Лицензировано [GNU General Public License v3.0](https://github.com/gdlocalisation/gdl-installer/blob/main/LICENSE.md).
