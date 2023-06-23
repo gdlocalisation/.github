@@ -1,4 +1,4 @@
-![GDL](https://github.com/gdlocalisation/gdl-site/blob/main/img/gdl_logo_text.png)
+q![GDL](https://github.com/gdlocalisation/gdl-site/blob/main/img/gdl_logo_text.png)
 
 
 
@@ -33,7 +33,6 @@ Geometry Dash Localisation - модификация, которая нацеле
 - [__@astrajl___](https://www.youtube.com/channel/UCtC8U-f3iRtm601DcfoUEhg) - перерисовщик текстур.
 - [__@maximaldash__](https://www.youtube.com/channel/UCb92kWSQ-5NWIcTZnxHKAfg) - перерисовщик текстур, дизайнер шрифтов.
 - [__@raelc__](https://github.com/NotRaelc) - помощник с установщиком.
-- [__@iandy_hd3__](https://github.com/iAndyHD3) - создатель/разработчик GDPS Editor 2.2, переводчик на Испанский язык.
 
 Отдельное спасибо нескольким людям - [__HJfod__](https://github.com/HJfod), [__Mat__](https://github.com/matcool/), [__QuasarKim__](https://github.com/Quasar-Kim   ), __@sleepyut__.
 
