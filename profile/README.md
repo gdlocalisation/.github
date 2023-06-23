@@ -20,6 +20,7 @@ Geometry Dash Localisation - модификация, которая нацеле
 - [GDL Site](https://github.com/gdlocalisation/gdl-site)
 - [GDL Installer](https://github.com/gdlocalisation/gdl-installer)
 - [GDL Binaries](https://github.com/gdlocalisation/gdl-binaries)
+- [GDL Assets](https://github.com/gdlocalisation/gdl-assets)
 - [GDL Source code](https://github.com/gdlocalisation/gdl-source-code)
 
 ## Команда GDL
