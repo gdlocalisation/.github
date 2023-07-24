@@ -36,8 +36,8 @@ Geometry Dash Localisation - модификация, которая нацеле
 1. Скачайте .exe файл из [последнего релиза](https://github.com/gdlocalisation/gdl-installer/releases).
 2. Откройте файл .exe (нужно немного подождать, он берёт информацию с сервера) и начните установку. <br />![Screenshot1](screenshots/1.png)
 3. Нажмите далее и выберите путь (если не выбрался автоматически), где установлена Geometry Dash (Допустим E:/Games/gd). <br />![Screenshot2](screenshots/2.png)
-4. Выберите, какой способ установки DLL вам нужен (Мне допустим нужен этот способ установки, так как у меня нет никаких модов). <br />![Screenshot3](screenshots/3.png)
-5. Нажмите установить и ждите установки. <br />![Screenshot4](screenshots/4.png)
+4. Выберите, какой способ установки DLL вам нужен (Мне нужен этот способ установки, так как у меня нет никаких модов). <br />![Screenshot3](screenshots/3.png)
+5. Нажмите установить и ждите установку. <br />![Screenshot4](screenshots/4.png)
 6. Если все установилось успешно, то поздравляю, теперь у вас гд на русском языке. <br />![Screenshot5](screenshots/5.png)
 
 #### Mac Os, Linux, Iphone и Android:
