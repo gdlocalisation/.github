@@ -25,7 +25,7 @@ Geometry Dash Localisation – модификация, нацеленная на
 - [__@maximaldash__](https://www.youtube.com/channel/UCb92kWSQ-5NWIcTZnxHKAfg) - перерисовщик текстур, дизайнер шрифтов.
 - [__@raelc__](https://github.com/NotRaelc) - переводчик игры.
 
-Отдельное спасибо нескольким людям - [__HJfod__](https://github.com/HJfod), [__Mat__](https://github.com/matcool/), [__QuasarKim__](https://github.com/Quasar-Kim).
+Отдельное спасибо нескольким людям - [__HJfod__](https://github.com/HJfod), [__Mat__](https://github.com/matcool/), [__QuasarKim__](https://github.com/Quasar-Kim), __Pepino Cosmico__.
 
 ## Установка
 ### 2.2
