@@ -7,12 +7,11 @@ Geometry Dash Localisation – модификация, нацеленная на
 ## Полезные ссылки
 - [Сайт](https://www.gdlocalisation.uk)
 - [Discord сервер](https://discord.gg/CScsGU3N6M) ([Запасная ссылка](https://discord.gg/Vh6G9G9Tk2))
-- [Скачать мод (Geode) [TODO]](https://github.com/gdlocalisation/gdl-geode)
+- [Скачать мод для Geode](https://github.com/gdlocalisation/gdl-geode) (в разработке)
 
 ## Репозитории
 - [Сайт](https://github.com/gdlocalisation/gdl-site)
 - [Мод для Geode](https://github.com/gdlocalisation/gdl-geode)
-- [GDL Binaries](https://github.com/gdlocalisation/gdl-binaries)
 
 ## Команда GDL
 - [__@jaan2897__](https://github.com/JaanDev) - основатель проекта, программист, а также создатель сайта, перерисовщик текстур, шрифтов.
@@ -37,7 +36,7 @@ Geometry Dash Localisation – модификация, нацеленная на
 - Следуйте инструкциям в установщике.
 
 ## Баги и вопросы
-Если вы нашли какой-нибудь баг, у вас есть вопрос или предложение – пишите в наш Discord сервер.
+Если Вы нашли какой-нибудь баг, у вас есть вопрос или предложение – пишите в наш [Discord сервер](https://discord.gg/CScsGU3N6M) ([Запасная ссылка](https://discord.gg/Vh6G9G9Tk2)).
 
 ## Лицензия
 Лицензировано [GNU General Public License v3.0](https://github.com/gdlocalisation/gdl-installer/blob/main/LICENSE.md).
